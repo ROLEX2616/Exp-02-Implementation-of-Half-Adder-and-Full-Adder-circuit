@@ -37,6 +37,8 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+
+
 HALF ADDER
 
 
@@ -45,6 +47,8 @@ HALF ADDER
 
  ![image](https://github.com/ROLEX2616/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149988469/4699e57c-1b75-45b5-af9c-2c0a57b01eff)
 
+
+ 
  FULL ADDER
 
 
