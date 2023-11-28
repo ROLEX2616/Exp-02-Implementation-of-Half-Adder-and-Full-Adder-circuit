@@ -38,9 +38,19 @@ If the output is 1, then the led glows.
 ### 
 Program:
 HALF ADDER
+
+
+
+
+
  ![image](https://github.com/ROLEX2616/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149988469/4699e57c-1b75-45b5-af9c-2c0a57b01eff)
 
  FULL ADDER
+
+
+
+
+ 
  ![image](https://github.com/ROLEX2616/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149988469/4af47174-ae41-4845-bddc-6d77d93cf17c)
 
 
@@ -54,17 +64,33 @@ Logic symbol & Truthtable
 
 HALF ADDER
 
+
+
+
 ![image](https://github.com/ROLEX2616/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149988469/58d6282f-72d1-4d8d-a330-6340d3832b12)
 
 FULL ADDER
+
+
+
+
 ![image](https://github.com/ROLEX2616/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149988469/3ac0216f-7bc6-4db4-8cae-9a5deceb2d0d)
 
 RTL realization
 Half Adder Circuit:
+
+
+
+
 ![image](https://github.com/ROLEX2616/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149988469/904e8553-4f58-4bd2-97d7-002901622440)
 
 
 Full Adder Circuit
+
+
+
+
+
 ![image](https://github.com/ROLEX2616/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149988469/e51e77b3-820f-45e0-ad70-78be38ff6d17)
 
 
